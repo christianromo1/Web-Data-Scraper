@@ -123,13 +123,13 @@ bash: pip install selenium beautifulsoup4 streamlit
 
 Run the Scraper: python main.py
 
-
-Disclaimer
+---
+# Disclaimer
 
 This project was built for educational and research purposes as part of a university coursework assignment.
 
-Author
-
+---
+# Author
 Christian Romo
 Cybersecurity Student
 Loyola University Chicago
